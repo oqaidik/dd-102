@@ -1,1 +1,1 @@
-# dd-102
+ceci est une application web full stack en python contenant des medias et form
